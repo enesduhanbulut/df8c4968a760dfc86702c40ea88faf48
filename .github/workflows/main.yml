@@ -1,0 +1,2 @@
+- name: Sign Android release
+  uses: r0adkll/sign-android-release@v1
